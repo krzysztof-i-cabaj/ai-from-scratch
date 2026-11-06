@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+# Downloaded tokenizer files (fetched by the scripts on first run, not redistributed here)
+*.tokenizer.json
+# Local results of your own runs (the measured results used in the videos are in data/)
+results/
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

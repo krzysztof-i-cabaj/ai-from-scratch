@@ -1,0 +1,4 @@
+# Versions the measurements were made with (26 Oct 2026); only tokens.py needs these
+requests==2.34.2
+tiktoken==0.14.0
+tokenizers==0.23.3
