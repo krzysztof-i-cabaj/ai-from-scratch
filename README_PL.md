@@ -10,7 +10,7 @@
 > każda komenda do skopiowania, zmierzone liczby za każdą grafiką, to, co nie zmieściło się w filmie, i ćwiczenia
 > do zrobienia samemu. 🇬🇧 [English version](README.md)
 
-> 📅 **Odcinek 1:** premiera [filmu](https://youtu.be/EGYjK3ZXgjY) w nd. 8.11.2026 o 18:00. Przewodnik jest gotowy już teraz — sprawdzony na czystym Windows 10.
+> 📅 **Odcinek 1:** [film](https://youtu.be/EGYjK3ZXgjY) miał premierę w nd. 8.11.2026. Przewodnik poniżej jest sprawdzony na czystym Windows 10.
 
 ## 🧭 Jak korzystać z repozytorium
 

@@ -10,7 +10,7 @@
 > the guide here takes you further: every command to copy, the measured numbers behind each chart, the parts that did
 > not fit in the video, and exercises you can run yourself. 🇵🇱 [Wersja polska](README_PL.md)
 
-> 📅 **Episode 1:** [the video](https://youtu.be/EGYjK3ZXgjY) premieres on Sun 8 Nov 2026 at 18:00 (CET). The guide below is ready now — tested on a clean Windows 10.
+> 📅 **Episode 1:** [the video](https://youtu.be/EGYjK3ZXgjY) premiered on Sun 8 Nov 2026. The guide below is tested on a clean Windows 10.
 
 ## 🧭 How to use this repository
 
